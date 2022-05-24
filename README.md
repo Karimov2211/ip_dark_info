@@ -6,14 +6,16 @@
 
 # Тарзи установка:
 Kali linux /  Parrot OS
- 
-1) pip3 install pyfiglet
 
-2) pip3 install folium
+1) git clone https://github.com/Karimov2211/ip_dark_info.git
 
-3) pip3 install requests
+2) pip3 install pyfiglet
 
-4) pip3 install colorama
+3) pip3 install folium
+
+4) pip3 install requests
+
+5) pip3 install colorama
 
 Хангоми оид ба ягон ip-адрес маьлумот чустанн чой ма макони онро дар 
 карта нишон медихад!
