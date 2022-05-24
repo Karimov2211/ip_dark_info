@@ -8,14 +8,17 @@
 Kali linux /  Parrot OS
 
 1) git clone https://github.com/Karimov2211/ip_dark_info.git
+2) cd ip_dark_info
 
-2) pip3 install pyfiglet
+3) pip3 install pyfiglet
 
-3) pip3 install folium
+4) pip3 install folium
 
-4) pip3 install requests
+5) pip3 install requests
 
-5) pip3 install colorama
+6) pip3 install colorama
+
+7) python3 probiv.py
 
 Хангоми оид ба ягон ip-адрес маьлумот чустанн чой ма макони онро дар 
 карта нишон медихад!
