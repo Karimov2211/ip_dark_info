@@ -4,7 +4,7 @@
 
 # Тарзи установка:
 Kali linux /  Parrot OS
-![image.txt]()
+![image.txt](https://github.com/Karimov2211/ip_dark_info/blob/main/probiv.png)
 
 1) pip3 install pyfiglet
 
