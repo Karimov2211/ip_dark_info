@@ -5,6 +5,9 @@
 Kali linux /  Parrot OS
 
 1)pip3 install pyfiglet
+
 2)pip3 install folium
+
 3)pip3 install requests
+
 4)pip3 install colorama
